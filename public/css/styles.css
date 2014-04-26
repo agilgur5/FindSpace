@@ -1,0 +1,34 @@
+.centered_text{
+  text-align: center;
+}
+
+#navbar_top{
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  margin: 0px;
+}
+
+.container_under_navbar{
+  position: relative;
+  top: 52px; /* underneath navbar */
+  width: 100%;
+  padding: 0px;
+}
+
+#carousel_inner{
+  height: 500px;
+}
+.carousel_leftright{
+  font-size: 100px;
+  vertical-align: middle;
+}
+.carousel_leftright_text{
+  position: absolute;
+  top: 35%;
+}
+
+.carousel_img_resize{
+  height: 500px;
+  width: 100%;
+}
